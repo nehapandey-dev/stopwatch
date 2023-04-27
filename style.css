@@ -1,0 +1,66 @@
+body {
+    background-color: #03203C;
+}
+
+h3 {
+    margin-top: 50px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.container {
+    background-color: rgb(14, 13, 13);
+    border: 2px solid white;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+
+}
+
+#screen {
+    color: black;
+    height: 50px;
+    width: 240px;
+    border-radius: 20px;
+    background-color: rgb(174, 213, 241);
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: solid;
+
+}
+
+.button {
+    margin-top: 50px;
+    line-height: 30px;
+}
+
+#pauseTimer {
+    background-color: blue;
+    height: 40px;
+    width: 70px;
+    border-style: none;
+    font: bold;
+    color: white;
+}
+
+#startTimer {
+    background-color: green;
+    height: 40px;
+    width: 70px;
+    border-style: none;
+    font: bold;
+    color: white;
+}
+
+#resetTimer {
+    background-color: brown;
+    height: 40px;
+    width: 70px;
+    border-style: none;
+    font: bold;
+    color: white;
+}
